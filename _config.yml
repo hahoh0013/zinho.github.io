@@ -89,4 +89,4 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
-remote_theme : mmistakes/minimal-mistakes
+remote_theme : thiagorossener/jekfilx-template
